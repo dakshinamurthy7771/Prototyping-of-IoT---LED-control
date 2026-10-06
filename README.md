@@ -1,5 +1,5 @@
-## Name: MOULISHWAR G
-## Reg. no: 2305001020
+## Name: DAKSHINAMURTHY.v
+## Reg. no: 2305001006
 # Exp no & name: 1 - LED CONTROL USING ARDUINO #
 
 # Aim #
