@@ -186,3 +186,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Result ##
+Thus, the LED control system was successfully designed and simulated using Proteus.
