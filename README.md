@@ -1,5 +1,5 @@
-## Name: #DAKSHINAMUHY#
-## Reg. no: #230001006#
+## Name: DAKSHINAMURTHY
+## Reg. no: 230001006
 # Exp no & name: 1 - LED CONTROL USING ARDUINO #
 
 # Aim #
